@@ -1,0 +1,14 @@
+micro FE
+eslint
+git-hook
+prettier
+src
+  module
+    base: (các thành phần dùng chung trong repo)
+      assets
+        scss
+      components
+      redux
+      utils
+      route
+      lib
